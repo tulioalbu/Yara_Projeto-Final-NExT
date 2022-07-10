@@ -1,4 +1,6 @@
-<div align="center"/div><a href="https://im.ge/i/r4kqNp"><img src="https://i.im.ge/2022/06/17/r4kqNp.md.png" alt="r4kqNp.md.png" border="0"></a></div>
+<p align="center"> 
+<a href="https://im.ge/i/uvyUR6"><img src="https://i.im.ge/2022/07/11/uvyUR6.md.png" alt="uvyUR6.png" border="0" /></a>
+</p>
 
 # Yara - Message in a Bottle
 
