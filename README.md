@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://i.postimg.cc/xC2MKK4z/Yara-1.png" width="350" height="350"  />
+<img src="https://i.postimg.cc/xC2MKK4z/Yara-1.png" width="400" height="400"  />
 </p>
 
 # Yara - Message in a Bottle
